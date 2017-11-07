@@ -32,3 +32,5 @@ Count=1
 [Aliases]
 Count=0
 SuppressDialog=0
+[DebuggerSettings]
+DisableInterruptsWhenStepping=0

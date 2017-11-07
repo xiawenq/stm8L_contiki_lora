@@ -124,9 +124,9 @@
     </settings>
     <settings>
       <name>STICE_STM8</name>
-      <archiveVersion>2</archiveVersion>
+      <archiveVersion>3</archiveVersion>
       <data>
-        <version>1</version>
+        <version>2</version>
         <wantNonLocal>1</wantNonLocal>
         <debug>1</debug>
         <option>
@@ -161,13 +161,17 @@
           <name>STiceOptionBytesSetupFile</name>
           <state></state>
         </option>
+        <option>
+          <name>STiceEraseMemory</name>
+          <state>0</state>
+        </option>
       </data>
     </settings>
     <settings>
       <name>STLINK_STM8</name>
-      <archiveVersion>2</archiveVersion>
+      <archiveVersion>3</archiveVersion>
       <data>
-        <version>1</version>
+        <version>2</version>
         <wantNonLocal>1</wantNonLocal>
         <debug>1</debug>
         <option>
@@ -197,6 +201,10 @@
         <option>
           <name>STlinkOptionBytesSetupFile</name>
           <state></state>
+        </option>
+        <option>
+          <name>STlinkEraseMemory</name>
+          <state>0</state>
         </option>
       </data>
     </settings>
@@ -345,9 +353,9 @@
     </settings>
     <settings>
       <name>STICE_STM8</name>
-      <archiveVersion>2</archiveVersion>
+      <archiveVersion>3</archiveVersion>
       <data>
-        <version>1</version>
+        <version>2</version>
         <wantNonLocal>1</wantNonLocal>
         <debug>0</debug>
         <option>
@@ -382,13 +390,17 @@
           <name>STiceOptionBytesSetupFile</name>
           <state></state>
         </option>
+        <option>
+          <name>STiceEraseMemory</name>
+          <state>0</state>
+        </option>
       </data>
     </settings>
     <settings>
       <name>STLINK_STM8</name>
-      <archiveVersion>2</archiveVersion>
+      <archiveVersion>3</archiveVersion>
       <data>
-        <version>1</version>
+        <version>2</version>
         <wantNonLocal>1</wantNonLocal>
         <debug>0</debug>
         <option>
@@ -418,6 +430,10 @@
         <option>
           <name>STlinkOptionBytesSetupFile</name>
           <state></state>
+        </option>
+        <option>
+          <name>STlinkEraseMemory</name>
+          <state>0</state>
         </option>
       </data>
     </settings>
